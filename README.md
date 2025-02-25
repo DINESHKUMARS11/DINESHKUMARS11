@@ -17,9 +17,10 @@ AI/Data Science Enthusiast
 
 
 ### 💻 Workspace Spec
- <img height="30" src="https://img.icons8.com/?size=100&id=38607&format=png&color=000000" />  <img height="30" 
+ <img height="50" src="https://img.icons8.com/?size=100&id=38607&format=png&color=000000" />  <img height="50" 
  src="https://img.icons8.com/?size=100&id=tu2Vq6i3mpRn&format=png&color=000000" />
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DINESHKUMARS11&bg_color=000000&color=ffffff&line=ff0019&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DINESH_KUMAR_SWAMINATHAN?theme=dark&font=Akaya%20Telivigala&ext=heatmap)(https://leetcode.com/u/DINESH_KUMAR_SWAMINATHAN/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DINESH_KUMAR_SWAMINATHAN?theme=dark&font=Akaya%20Telivigala&ext=heatmap)
+(https://leetcode.com/u/DINESH_KUMAR_SWAMINATHAN/)
