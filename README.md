@@ -3,7 +3,7 @@
 AI/Data Science Enthusiast
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                          
 - 🌱 I’m currently learning AI/ML and Data Science
-- Engineeing at (https://www.mkce.ac.in/)
+- Engineering at (https://www.mkce.ac.in/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img height="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />](https://www.linkedin.com/in/dinesh-kumar-swaminathan-910a14202/)
