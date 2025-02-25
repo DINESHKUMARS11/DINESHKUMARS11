@@ -1,16 +1,35 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/f5b506a6-2870-42dd-b649-2269eefd4e9c)
+## Hi there 👋 It's me Dinesh Kumar Swaminathan
 
-<!--
-**DINESHKUMARS11/DINESHKUMARS11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/Data Science Enthusiast
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🌱 I’m currently learning AI/ML and Data Science
+- Engineeing at [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Falumni.mkce.ac.in%2Fabout&psig=AOvVaw1fTnDjCFQucSU9UA_K2465&ust=1740577881364000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMjz6Yv83osDFQAAAAAdAAAAABAE" height="24">]
+(https://www.mkce.ac.in/),
+- ⚡ Fun fact: I know Japanese.
+- Social Presence
+<br /> [<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />](https://www.linkedin.com/in/dinesh-kumar-swaminathan-910a14202/)
 
-Here are some ideas to get you started:
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
+<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
+
+
+
+### 💻 Workspace Spec
+ <img height="30" src="https://img.icons8.com/?size=100&id=38607&format=png&color=000000" /> 
+ <img height="30" src="https://www.thefpsreview.com/2019/12/31/amd-ryzen-5-mobile-3500u-cpu-review/" /> 
+
+[![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DINESHKUMARS11&bg_color=000000&color=ffffff&line=ff0019&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DINESH_KUMAR_SWAMINATHAN?theme=dark&font=Akaya%20Telivigala&ext=heatmap)(https://leetcode.com/u/DINESH_KUMAR_SWAMINATHAN/)
