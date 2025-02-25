@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f5b506a6-2870-42dd-b649-2269eefd4e9c)
 ## Hi there 👋 It's me Dinesh Kumar Swaminathan
 
 AI/Data Science Enthusiast
@@ -19,7 +18,7 @@ AI/Data Science Enthusiast
 
 
 ### 💻 Workspace Spec
- <img height="30" src="https://img.icons8.com/?size=100&id=38607&format=png&color=000000" />  <img height="30" src="https://www.thefpsreview.com/2019/12/31/amd-ryzen-5-mobile-3500u-cpu-review/" /> 
+ <img height="30" src="https://img.icons8.com/?size=100&id=38607&format=png&color=000000" />  
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DINESHKUMARS11&bg_color=000000&color=ffffff&line=ff0019&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
