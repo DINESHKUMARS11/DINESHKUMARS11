@@ -7,7 +7,7 @@ AI/Data Science Enthusiast
 (https://www.mkce.ac.in/),
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
-<br /> [<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />](https://www.linkedin.com/in/dinesh-kumar-swaminathan-910a14202/)
+<br /> [<img height="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />](https://www.linkedin.com/in/dinesh-kumar-swaminathan-910a14202/)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
