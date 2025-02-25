@@ -22,5 +22,6 @@ AI/Data Science Enthusiast
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DINESHKUMARS11&bg_color=000000&color=ffffff&line=ff0019&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DINESH_KUMAR_SWAMINATHAN?theme=dark&font=Akaya%20Telivigala&ext=heatmap)]
+![LeetCode Stats](https://leetcard.jacoblin.cool/DINESH_KUMAR_SWAMINATHAN?theme=dark&font=Akaya%20Telivigala&ext=heatmap)
+<br>
 (https://leetcode.com/u/DINESH_KUMAR_SWAMINATHAN/)
